@@ -74,3 +74,20 @@ To reproduce this analysis, follow these steps:
 4.  **Generate Visualizations:**
     * The results from the SQL queries were exported as the CSV files found in the `/exports` folder.
     * The Python script `analysis.py` reads these exported CSVs to generate the plots stored in the `/visuals` directory.
+
+## 🔑 Key Insights
+
+- **Japan dominates**  
+  Many of the oldest businesses are Japanese, especially in hospitality and construction.  
+
+- **Industries of longevity**  
+  Hotels, restaurants, breweries, and banking appear most frequently — showing industries tied to essential needs and traditions survive the longest.  
+
+- **Europe’s historical footprint**  
+  Countries like Germany, Austria, and the UK also have centuries-old businesses, particularly in finance and trade.  
+
+- **Cultural factors**  
+  Longevity seems linked to countries that value heritage and continuity, passing businesses down generations.  
+
+- **Timeline trend**  
+  Most surviving businesses were founded between the **9th and 17th centuries**, with fewer surviving from before then.  
